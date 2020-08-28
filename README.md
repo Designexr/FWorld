@@ -1,2 +1,2 @@
 # Hunger
-A simple forest wandering game
+A Simple FPS simulator in Unity
