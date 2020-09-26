@@ -1,2 +1,2 @@
 # Hunger
-A Simple FPS simulator in Unity
+A Simple First Person simulator in Unity
