@@ -1,4 +1,4 @@
-# Garden-Traveller
+# FWorld
 A Simple First Person simulator in Unity.
 
 ## Status
