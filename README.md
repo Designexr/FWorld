@@ -8,6 +8,15 @@ Repository status([badge](https://img.shields.io/badge/)):
 ![Version](https://img.shields.io/badge/version-1.0.0-green)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+![1](https://github.com/prskid1000/CodeNut-Android/blob/main/Preview/1.png?raw=true)
+
+![2](https://github.com/prskid1000/CodeNut-Android/blob/main/Preview/2.png?raw=true)
+
+![3](https://github.com/prskid1000/CodeNut-Android/blob/main/Preview/3.png?raw=true)
+
+![4](https://github.com/prskid1000/CodeNut-Android/blob/main/Preview/4.png?raw=true)
+
+
 ## Getting started
 
 - Fork the repository.
